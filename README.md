@@ -1,2 +1,2 @@
 # go-hackerrank
-Solve some problem in Hackerrank
+Solve some problems in Hackerrank
