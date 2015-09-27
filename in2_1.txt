@@ -1,0 +1,19 @@
+13
+1 70 wifi pool restaurant bathtub parking
+2 80 pool spa restaurant air-conditioning bathtub wifi parking
+3 60 restaurant air-conditioning wifi parking
+7 5 wifi
+11 5 spa
+13 10 wifi spa
+17 15 wifi bathtub
+19 20 wifi spa restaurant bathtub
+23 30 wifi
+27 40 pool restaurant spa
+29 50 pool restaurant wifi bathtub
+33 50 pool restaurant wifi bathtub
+37 70 pool restaurant wifi bathtub
+4
+65 wifi parking
+100 pool restaurant parking
+40 wifi
+60 pool restaurant
