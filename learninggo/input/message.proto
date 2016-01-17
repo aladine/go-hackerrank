@@ -1,0 +1,19 @@
+package tutorial;
+
+message Person{
+	required string query = 1;
+	optional int32 page_number = 2;
+	required int32 result_per_page = 3;
+	// reserved 2, 15, 9 to 11;
+	enum PhoneType {
+	    MOBILE = 0;
+	        HOME = 1;
+	            WORK = 2;
+	            }
+
+}
+
+// Our address book file is just one of these.
+message AddressBook {
+  repeated Person people = 1;
+  }
